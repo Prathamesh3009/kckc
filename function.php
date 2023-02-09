@@ -43,7 +43,7 @@ percentage($sum);
 
 
 
-$a=["prathamesh"=>"1","zeeshan"=>"2","ramesh"=>"3"];
+$a=["prathamesh"=>"1","zeeshan"=>"2","ramesh"=>"3"]
 
 function square($n){
     return $n*$n;
